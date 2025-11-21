@@ -47,6 +47,8 @@ Materials are grouped in **chronological order** - first things first!
 
 ### Customize Prompt:
 ```
+This is part 1 of a 4-part series on starting an ADHD peer support group from scratch.
+
 Focus on first steps for someone starting an ADHD support group from scratch:
 - Should I start a group? (assessing need and readiness)
 - Defining mission and purpose
@@ -83,6 +85,8 @@ Focus on first steps for someone starting an ADHD support group from scratch:
 
 ### Customize Prompt:
 ```
+This is part 2 of a 4-part series on starting an ADHD peer support group from scratch.
+
 Focus on the facilitator role in peer support groups:
 - What does a facilitator actually DO during meetings?
 - Core facilitation skills (active listening, time management, managing group dynamics)
@@ -118,6 +122,8 @@ Focus on the facilitator role in peer support groups:
 
 ### Customize Prompt:
 ```
+This is part 3 of a 4-part series on starting an ADHD peer support group from scratch.
+
 Focus on practical meeting structure and group rules:
 - Meeting structure: opening, main discussion, and closing
 - Essential ground rules (confidentiality, respect, boundaries, no interrupting)
@@ -154,6 +160,8 @@ Focus on practical meeting structure and group rules:
 
 ### Customize Prompt:
 ```
+This is part 4 of a 4-part series on starting an ADHD peer support group from scratch.
+
 Focus on building and sustaining a support group program long-term:
 - Step-by-step process for building a sustainable program
 - Recruiting new members and retaining existing ones
