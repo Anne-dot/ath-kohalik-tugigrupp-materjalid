@@ -33,29 +33,29 @@ Materials are grouped in **chronological order** - first things first!
 
 ---
 
-## 🚀 Audio 1: "First Steps - Should I and How Do I Start?"
+## 🚀 Audio 1: "First Steps - Should I Start a Support Group and How Do I Start?"
 
 ### Materials for NotebookLM:
 - `ADDA_Support_Group_Manual.pdf`
 - `IOCDF_Mental_Health_Support_Group_Guide.pdf`
 - `Limbs4Life_Practical_Guide_Peer_Support.pdf`
 
-### Why these?
-- **Small files** (117KB + 117KB + 485KB) - quick overview
-- **ADHD-specific** (ADDA)
-- **Practical** starting guide
-
 ### Customize Prompt:
 ```
 This is part 1 of a 4-part series on starting an ADHD peer support group from scratch.
 
+Answer ALL of the following questions based on the provided materials. Always cite the source document when providing information so the listener knows where to read more.
+
 Focus on first steps for someone starting an ADHD support group from scratch:
-- Should I start a group? (assessing need and readiness)
-- Defining mission and purpose
-- Deciding on format (open discussion vs speaker-led meetings)
-- Finding a venue and scheduling
-- First meeting preparation
-- Explain as if I'm a person with ADHD planning to start my first support group, with no prior experience
+- Should I start a group? What do I need to assess about need and readiness?
+- How do I define mission and purpose for my group?
+- What format should I choose? (open discussion vs speaker-led meetings - explain differences and pros/cons)
+- How do I find a venue? What are my options for location and scheduling?
+- How do I prepare for the first meeting? What needs to be done?
+- What does the ADDA manual specifically recommend for ADHD support groups?
+- What common mistakes should I avoid when starting?
+
+Explain as if I'm a person with ADHD planning to start my first support group, with no prior experience of starting a group. Cite specific sources throughout.
 ```
 
 ### What this covers:
@@ -64,10 +64,6 @@ Focus on first steps for someone starting an ADHD support group from scratch:
 - Format (open discussion vs speaker)
 - Finding a venue
 - First meeting
-
-### Related materials in this repo:
-- [03-ressursid/organisatsioonid-ja-kontaktid.md](03-ressursid/organisatsioonid-ja-kontaktid.md) - Organizations and contact information
-- [03-ressursid/manuaalid.md](03-ressursid/manuaalid.md) - Overview of all manuals
 
 ---
 
@@ -87,13 +83,17 @@ Focus on first steps for someone starting an ADHD support group from scratch:
 ```
 This is part 2 of a 4-part series on starting an ADHD peer support group from scratch.
 
+Answer ALL of the following questions based on the provided materials. Always cite the source document when providing information so the listener knows where to read more.
+
 Focus on the facilitator role in peer support groups:
-- What does a facilitator actually DO during meetings?
-- Core facilitation skills (active listening, time management, managing group dynamics)
-- How to handle difficult situations (conflicts, domineering members, silence)
-- Facilitator self-care and burnout prevention
-- Common mistakes and how to avoid them
-- Explain as if I have no experience facilitating groups and need concrete, actionable advice
+- What does a facilitator actually DO during meetings? What are the specific responsibilities?
+- What are the core facilitation skills needed? (active listening, time management, managing group dynamics - explain each)
+- How do I handle difficult situations? (conflicts between members, domineering members, long silences - give specific strategies for each)
+- How do I practice facilitator self-care and prevent burnout?
+- What are common mistakes new facilitators make and how can I avoid them?
+- What do the manuals specifically recommend for facilitation best practices?
+
+Explain as if I have no experience facilitating groups and need concrete, actionable advice. Cite specific sources throughout.
 ```
 
 ### What this covers:
@@ -124,13 +124,17 @@ Focus on the facilitator role in peer support groups:
 ```
 This is part 3 of a 4-part series on starting an ADHD peer support group from scratch.
 
+Answer ALL of the following questions based on the provided materials. Always cite the source document when providing information so the listener knows where to read more.
+
 Focus on practical meeting structure and group rules:
-- Meeting structure: opening, main discussion, and closing
-- Essential ground rules (confidentiality, respect, boundaries, no interrupting)
-- How to create a safe and supportive environment
-- ADHD-friendly meeting practices (time management, breaks, visual cues)
-- Handling rule violations
-- Explain with concrete examples I can implement immediately in my first meetings
+- How should I structure a meeting? (opening, main discussion, closing - explain what happens in each part)
+- What are the essential ground rules? (confidentiality, respect, boundaries, no interrupting - explain why each is important)
+- How do I create a safe and supportive environment?
+- What ADHD-friendly meeting practices should I use? (time management, breaks, visual cues - give specific examples)
+- How do I handle rule violations when they happen?
+- What do the official guidelines recommend for meeting structure and norms?
+
+Explain with concrete examples I can implement immediately in my first meetings. Cite specific sources throughout.
 ```
 
 ### What this covers:
@@ -162,14 +166,18 @@ Focus on practical meeting structure and group rules:
 ```
 This is part 4 of a 4-part series on starting an ADHD peer support group from scratch.
 
+Answer ALL of the following questions based on the provided materials. Always cite the source document when providing information so the listener knows where to read more.
+
 Focus on building and sustaining a support group program long-term:
-- Step-by-step process for building a sustainable program
-- Recruiting new members and retaining existing ones
-- Dealing with common long-term problems (member dropout, facilitator burnout, conflict, loss of momentum)
-- Measuring success and gathering feedback
-- Adapting and evolving the group over time
-- Financial sustainability (if applicable)
-- Explain with actionable steps for maintaining a group over months and years, not just the first few meetings
+- What is the step-by-step process for building a sustainable program?
+- How do I recruit new members? How do I retain existing ones?
+- What are common long-term problems and how do I deal with them? (member dropout, facilitator burnout, conflict, loss of momentum - address each)
+- How do I measure success? How do I gather and use feedback?
+- How should the group adapt and evolve over time?
+- What about financial sustainability? What do the materials recommend?
+- What do the comprehensive guides specifically say about long-term sustainability?
+
+Explain with actionable steps for maintaining a group over months and years, not just the first few meetings. Cite specific sources throughout.
 ```
 
 ### What this covers:
